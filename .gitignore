@@ -1,0 +1,14 @@
+# Material del curso: no se publica en el repositorio público
+*.pptx
+respuestas.txt
+
+# Herramientas locales
+.claude/
+node_modules/
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+*.log

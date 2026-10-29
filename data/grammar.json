@@ -1,0 +1,355 @@
+{
+  "topics": [
+    {
+      "id": "would",
+      "group": "habits",
+      "title": "would",
+      "subtitle": "Acciones repetidas en el pasado",
+      "inPPT": true,
+      "slide": 10,
+      "summary": "Usamos would para acciones repetidas en el pasado, pero NO con verbos de estado (have, know, like, love, hate…). Es un poco más formal que used to, se usa mucho en historias y para evocar nostalgia, y normalmente solo en afirmativo.",
+      "forms": {
+        "affirmative": "In the old days, families would listen to the radio together.",
+        "negative": "Casi no se usa en negativo → usa didn't use to: We didn't use to watch TV at dinner.",
+        "question": "Casi no se usa en preguntas → usa Did … use to …?: Did you use to play outside?"
+      },
+      "structure": "sujeto + would + verbo base",
+      "examples": [
+        "Every summer, my grandfather would take us fishing.",
+        "On Sundays we would visit my aunt and eat arepas.",
+        "My mum would sing to us before we went to sleep."
+      ],
+      "mistakes": [
+        { "wrong": "I would have a dog when I was a kid.", "right": "I used to have a dog when I was a kid.", "why": "have (poseer) es un verbo de estado: no admite would." },
+        { "wrong": "She would love chocolate.", "right": "She used to love chocolate.", "why": "love es un verbo de estado." },
+        { "wrong": "We wouldn't play video games.", "right": "We didn't use to play video games.", "why": "Según el PPT, would se usa normalmente solo en afirmativo." }
+      ]
+    },
+    {
+      "id": "used-to",
+      "group": "habits",
+      "title": "used to + infinitivo",
+      "subtitle": "Hábitos, acciones o estados pasados que ya cambiaron",
+      "inPPT": true,
+      "slide": 10,
+      "summary": "Usamos used to + verbo base para hablar de hábitos o acciones repetidas en el pasado, y también de situaciones o estados que cambiaron y ahora son diferentes. Funciona con verbos de acción Y de estado.",
+      "forms": {
+        "affirmative": "Families used to have healthier lifestyles.",
+        "negative": "Families didn't use to rush around so much.",
+        "question": "Did families use to eat as much?"
+      },
+      "structure": "+ used to + verbo · − didn't use to + verbo · ? Did … use to + verbo?",
+      "examples": [
+        "I used to live in Cali, but now I live in Bogotá.",
+        "My dad didn't use to exercise, but now he runs every day.",
+        "Did you use to have long hair?"
+      ],
+      "mistakes": [
+        { "wrong": "Did you used to like school?", "right": "Did you use to like school?", "why": "Después de did / didn't el verbo va en forma base: use to (sin -d)." },
+        { "wrong": "I didn't used to eat vegetables.", "right": "I didn't use to eat vegetables.", "why": "Igual: didn't + use to." },
+        { "wrong": "I use to go to the gym every day. (hoy)", "right": "I usually go to the gym every day.", "why": "used to no existe en presente; para hábitos presentes usa usually." },
+        { "wrong": "I used to going to the beach.", "right": "I used to go to the beach.", "why": "used to va con verbo base, no con -ing (eso es be used to)." }
+      ]
+    },
+    {
+      "id": "be-used-to",
+      "group": "habits",
+      "title": "(be) used to + verbo-ing",
+      "subtitle": "Estar acostumbrado: algo es normal para mí",
+      "inPPT": true,
+      "slide": 12,
+      "summary": "Usamos (to be) used to + verbo-ing (o + sustantivo) para decir que algo es normal para nosotros, algo que hacemos mucho. El verbo be cambia según el sujeto y el tiempo (am / is / are / was / were).",
+      "forms": {
+        "affirmative": "My family is used to going on holiday once a year.",
+        "negative": "I'm not used to working on Sundays.",
+        "question": "Are you used to writing in English every week?"
+      },
+      "structure": "sujeto + am/is/are (not) + used to + verbo-ing / sustantivo",
+      "examples": [
+        "Doctors are used to working long hours.",
+        "She isn't used to the cold yet.",
+        "Is your grandmother used to using her new phone?"
+      ],
+      "mistakes": [
+        { "wrong": "I'm used to live alone.", "right": "I'm used to living alone.", "why": "Después de be used to, el verbo va en -ing (to aquí es preposición)." },
+        { "wrong": "I used to waking up early. (= estoy acostumbrado)", "right": "I'm used to waking up early.", "why": "Falta el verbo be. Sin be, used to significa 'solía'." },
+        { "wrong": "He doesn't used to the noise.", "right": "He isn't used to the noise.", "why": "La negación se hace con be + not, no con do." }
+      ]
+    },
+    {
+      "id": "usually",
+      "group": "habits",
+      "title": "usually",
+      "subtitle": "Hábitos en el presente",
+      "inPPT": true,
+      "slide": 12,
+      "summary": "used to no existe en presente. Para hábitos presentes usamos el presente simple + usually. usually va antes del verbo principal, pero después de be.",
+      "forms": {
+        "affirmative": "People usually rush around in the mornings.",
+        "negative": "Families don't usually spend as much time together.",
+        "question": "Do you usually eat healthy food?"
+      },
+      "structure": "sujeto + usually + verbo (presente simple) · don't/doesn't usually + verbo · Do/Does … usually + verbo?",
+      "examples": [
+        "I usually take the bus to university.",
+        "My sister doesn't usually drink coffee.",
+        "I'm usually tired on Fridays. (después de be)"
+      ],
+      "mistakes": [
+        { "wrong": "I use to get up at 6 every day.", "right": "I usually get up at 6 every day.", "why": "Hábito presente → usually + presente simple." },
+        { "wrong": "I don't get up usually early.", "right": "I don't usually get up early.", "why": "usually va antes del verbo principal." },
+        { "wrong": "She usually is late.", "right": "She is usually late.", "why": "Con el verbo be, usually va después." }
+      ]
+    },
+    {
+      "id": "future-simple",
+      "group": "future",
+      "title": "Future Simple: will + verbo",
+      "subtitle": "Predicciones",
+      "inPPT": true,
+      "slide": 17,
+      "summary": "Usamos will + verbo base para hacer predicciones sobre el futuro (lo que creemos, pensamos o esperamos). Suele ir con I think, I don't think, probably, in the future, one day…",
+      "forms": {
+        "affirmative": "I think people will live longer in the future.",
+        "negative": "There won't be new pandemics. (won't = will not)",
+        "question": "Will doctors continue to use textbooks?"
+      },
+      "structure": "+ will + verbo · − won't + verbo · ? Will + sujeto + verbo?",
+      "examples": [
+        "Robots will do many jobs in hospitals.",
+        "I don't think healthcare will be free everywhere.",
+        "Do you think life expectancy will increase?"
+      ],
+      "mistakes": [
+        { "wrong": "I think it will to rain.", "right": "I think it will rain.", "why": "will va seguido del verbo base, sin to." },
+        { "wrong": "I think there won't be not problems.", "right": "I think there won't be any problems.", "why": "No uses doble negación." },
+        { "wrong": "I will see Jane for dinner tomorrow. (ya está reservado)", "right": "I'm seeing Jane for dinner tomorrow.", "why": "Si es un plan confirmado, el PPT pide presente continuo." }
+      ]
+    },
+    {
+      "id": "future-continuous",
+      "group": "future",
+      "title": "Future Continuous: will be + verbo-ing",
+      "subtitle": "Lo que estará pasando en un momento del futuro",
+      "inPPT": true,
+      "slide": 17,
+      "summary": "Usamos will be + verbo-ing para hablar de una acción que estará en progreso en un momento concreto del futuro. Pistas típicas: this time next week, at this time on Thursday, at 8 p.m. tomorrow.",
+      "forms": {
+        "affirmative": "This time next week Gary will be meeting with the new boss.",
+        "negative": "I won't be working at 6 p.m., so call me then.",
+        "question": "Will you be studying at 9 tonight?"
+      },
+      "structure": "will (not) be + verbo-ing",
+      "examples": [
+        "At this time on Thursday you will be doing your evaluations.",
+        "This time tomorrow we'll be flying to Cartagena.",
+        "Don't call at 8 — I'll be having dinner."
+      ],
+      "mistakes": [
+        { "wrong": "This time next week I will meet the boss.", "right": "This time next week I will be meeting the boss.", "why": "'this time next week' = acción en progreso en ese momento → futuro continuo." },
+        { "wrong": "I will being working.", "right": "I will be working.", "why": "Después de will va be (forma base), no being." }
+      ]
+    },
+    {
+      "id": "present-continuous-future",
+      "group": "future",
+      "title": "Present Continuous para el futuro",
+      "subtitle": "Planes 100% confirmados",
+      "inPPT": true,
+      "slide": 17,
+      "summary": "Usamos am / is / are + verbo-ing para planes 100% confirmados (ya hay cita, entradas, reserva o acuerdo). Casi siempre lleva una expresión de tiempo futuro: tomorrow, on Saturday, next week.",
+      "forms": {
+        "affirmative": "I'm seeing Jane for dinner tomorrow.",
+        "negative": "We aren't playing tennis tomorrow. We don't have time.",
+        "question": "Are you going to the cinema on Saturday?"
+      },
+      "structure": "am/is/are (not) + verbo-ing + expresión de tiempo futuro",
+      "examples": [
+        "David and I are going to the cinema on Saturday.",
+        "Dave and Sadie are travelling to Spain this Saturday.",
+        "I'm having surgery next Monday."
+      ],
+      "mistakes": [
+        { "wrong": "I see the doctor tomorrow at 3.", "right": "I'm seeing the doctor tomorrow at 3.", "why": "Plan confirmado → presente continuo, no presente simple." },
+        { "wrong": "I think it is raining tomorrow.", "right": "I think it will rain tomorrow.", "why": "Una predicción no es un plan: usa will." }
+      ]
+    },
+    {
+      "id": "future-perfect",
+      "group": "future",
+      "title": "Future Perfect: will have + participio",
+      "subtitle": "Acción terminada ANTES de un momento futuro (extra)",
+      "inPPT": false,
+      "slide": 18,
+      "summary": "No aparece en el resumen del PPT (diap. 17), pero el ejercicio de la diap. 18 tiene frases con 'before 2050' y 'by the end of the century', que normalmente piden future perfect: la acción estará terminada antes de ese momento. Tu clave acepta también will + verbo. Pregunta a tu profesor cuál espera en el examen.",
+      "forms": {
+        "affirmative": "Scientists will have cured many cancers before 2050.",
+        "negative": "We won't have finished the project by Friday.",
+        "question": "Will technology have advanced much by 2100?"
+      },
+      "structure": "will (not) have + participio pasado (cured, advanced, finished, done…)",
+      "examples": [
+        "By the end of the century, technology will have advanced so much.",
+        "By 2040, scientists will have developed new vaccines.",
+        "By the time you arrive, the film will have finished."
+      ],
+      "mistakes": [
+        { "wrong": "By 2050 we will have cure cancer.", "right": "By 2050 we will have cured cancer.", "why": "Después de will have va el participio (cured)." }
+      ]
+    }
+  ],
+  "compare": [
+    { "form": "used to + verbo", "meaning": "solía (pasado, ya no)", "example": "I used to live in Cali." },
+    { "form": "would + verbo", "meaning": "solía (solo acciones repetidas, sin estados)", "example": "We would play in the park every day." },
+    { "form": "be used to + -ing", "meaning": "estar acostumbrado (es normal para mí)", "example": "I'm used to living alone." },
+    { "form": "usually + presente", "meaning": "suelo (hábito presente)", "example": "I usually walk to class." }
+  ],
+  "teacherNotes": [
+    { "where": "Putting it all together (diap. 14) · espacios 5 y 6", "note": "La clave dice solo \"were\". Aquí también se acepta \"used to be\", que es gramaticalmente correcto (situación pasada que cambió). Pregunta si en el examen se acepta." },
+    { "where": "Putting it all together (diap. 14) · espacio 8", "note": "La clave dice \"don't talk / don't usually talk\", pero \"don't\" ya está escrito antes del espacio. La página muestra \"talk\" como respuesta y acepta también las versiones con don't." },
+    { "where": "Future Tenses (diap. 18) · frase 5", "note": "La clave dice \"will doctors continue\", pero la frase ya trae \"Do you think doctors…\". La página usa \"will continue\" como respuesta del espacio." },
+    { "where": "Exercise 2 (diap. 13) · frases 4, 7 y 9", "note": "La frase ya incluye \"Are you\", \"I'm\" o \"Is your dog\", así que el espacio es solo \"used to + -ing\"." },
+    { "where": "Discusión (diap. 15)", "note": "El PPT escribe \"What did you used to like…?\" y \"What didn't you used to like…?\". Según la regla de la diap. 10 (Did … use to?), lo correcto es \"did you use to\"." },
+    { "where": "Texto de la diap. 14", "note": "El PPT dice \"make friends the people\"; en la página se escribió \"make friends with the people\"." }
+  ],
+  "exercises": [
+    {
+      "id": "ppt-ex1",
+      "title": "Exercise 1 · Past habits",
+      "topic": "habits",
+      "source": "ppt",
+      "slide": 11,
+      "instructions": "Completa con used to / didn't use to / Did … use to / would. Recuerda: would no va con verbos de estado y casi nunca en negativo.",
+      "items": [
+        { "text": "When I was a kid, I ___ (ride) my bike to school every day.", "answers": ["used to ride", "would ride"], "why": "Acción repetida en el pasado (every day): sirven used to y would." },
+        { "text": "My brother ___ (not/like) vegetables, but now he eats them all the time.", "answers": ["didn't use to like"], "why": "like es un verbo de estado (no admite would) y la frase es negativa: didn't use to + verbo base." },
+        { "text": "___ (you/watch) cartoons on Saturday mornings when you were little?", "answers": ["Did you use to watch"], "why": "Pregunta sobre un hábito pasado: Did + sujeto + use to (sin -d) + verbo." },
+        { "text": "We ___ (go) camping every summer — it was our family tradition.", "answers": ["used to go", "would go"], "why": "Acción repetida (every summer) y afirmativa: used to o would." },
+        { "text": "I ___ (not/play) video games much when I was younger.", "answers": ["didn't use to play"], "why": "Negativo: would no se usa en negativo → didn't use to + verbo." },
+        { "text": "My grandparents ___ (tell) us stories before bedtime.", "answers": ["used to tell", "would tell"], "why": "Acción repetida y nostálgica: would es muy natural aquí; used to también." },
+        { "text": "___ (your parents/take) you to the cinema when you were small?", "answers": ["Did your parents use to take"], "why": "Pregunta: Did + sujeto + use to + verbo base." },
+        { "text": "I ___ (hate) going to the dentist, but now I don't mind it.", "answers": ["used to hate"], "why": "hate es un verbo de estado: solo used to, nunca would." },
+        { "text": "On rainy days, my sister and I ___ (make) forts out of blankets.", "answers": ["would make", "used to make"], "why": "Acción repetida en una historia nostálgica: would (o used to)." },
+        { "text": "We ___ (not/have) mobile phones when I was at school.", "answers": ["didn't use to have"], "why": "have (poseer) es un estado y la frase es negativa: didn't use to have." }
+      ]
+    },
+    {
+      "id": "ppt-ex2",
+      "title": "Exercise 2 · (be) used to + -ing / usually",
+      "topic": "habits",
+      "source": "ppt",
+      "slide": 13,
+      "instructions": "Completa con (be) used to + verbo-ing / sustantivo, o con usually + presente simple.",
+      "items": [
+        { "text": "I ___ (live) in a small apartment, so I don't miss having a big house.", "answers": ["'m used to living", "am used to living"], "why": "Es algo normal para mí (estoy acostumbrado): be used to + -ing." },
+        { "text": "She ___ (drive) long distances yet — she still gets nervous on the highway.", "answers": ["isn't used to driving", "'s not used to driving"], "why": "'yet' + todavía se pone nerviosa → aún no está acostumbrada: isn't used to + -ing." },
+        { "text": "We ___ (wake up) early because our classes start at 7 a.m.", "answers": ["'re used to waking up", "are used to waking up"], "why": "Es normal para nosotros por las clases: be used to + -ing." },
+        { "text": "Are you ___ (wear) glasses all the time now?", "answers": ["used to wearing"], "why": "La pregunta ya trae 'Are you': falta used to + -ing (Are you used to wearing…?)." },
+        { "text": "He ___ (the cold) yet, so he still wears a jacket indoors sometimes.", "answers": ["isn't used to the cold", "'s not used to the cold"], "why": "be used to también va con sustantivo: isn't used to the cold." },
+        { "text": "They ___ (eat) vegetarian food during the week.", "answers": ["usually eat"], "why": "Hábito presente: usually + presente simple (used to no existe en presente)." },
+        { "text": "I'm ___ (study) with background noise — my family are always loud!", "answers": ["used to studying"], "why": "La frase ya trae 'I'm': falta used to + -ing (I'm used to studying)." },
+        { "text": "My parents ___ (use) smartphones; they prefer their old phones.", "answers": ["don't usually use"], "why": "Hábito presente negativo: don't usually + verbo." },
+        { "text": "Is your dog ___ (sleep) in the new bed?", "answers": ["used to sleeping"], "why": "La pregunta ya trae 'Is your dog': falta used to + -ing." },
+        { "text": "I don't ___ (get up) before 6 a.m. — I love sleeping in!", "answers": ["usually get up"], "why": "Hábito presente negativo: I don't usually get up. usually va antes del verbo." }
+      ]
+    },
+    {
+      "id": "ppt-together",
+      "title": "Putting it all together",
+      "topic": "habits",
+      "source": "ppt",
+      "slide": 14,
+      "layout": "paragraph",
+      "instructions": "Completa el texto con la forma correcta. Párrafo 1 = pasado; párrafo 2 = presente.",
+      "items": [
+        { "text": "A few years ago, we ___ (live) in a tiny apartment in a dangerous area.", "answers": ["used to live", "lived"], "why": "Situación pasada que ya cambió: used to live (o pasado simple lived). live describe una situación, así que no se usa would." },
+        { "text": "We were ___ (live) with very little money.", "answers": ["living"], "why": "Ya está 'were': pasado continuo (were living)." },
+        { "text": "We ___ (not have) good furniture or a good TV,", "answers": ["didn't have", "didn't use to have"], "why": "have es un estado y la frase es negativa: didn't have / didn't use to have." },
+        { "text": "and of course, we ___ (not know) what it was to have an internet connection.", "answers": ["didn't know", "didn't use to know"], "why": "know es un estado y es negativo: didn't know / didn't use to know." },
+        { "text": "In our neighbourhood, the streets ___ (be) dark and dirty,", "answers": ["were", "used to be"], "why": "Estado en el pasado: were. Nunca would con be." },
+        { "text": "and there ___ (be) a lot of robberies.", "answers": ["were", "used to be"], "why": "there were + plural (a lot of robberies)." },
+        { "break": true, "text": "Then we won the lottery and everything changed for us. We bought a new flat in a very nice area of the city, where we have been living for the last three years. We ___ (sleep) in comfy beds and eating good food now,", "answers": ["are sleeping", "'re sleeping"], "why": "'now' y 'and eating' después: presente continuo (We are sleeping … and eating …)." },
+        { "text": "but it wasn't easy to make friends with the people in our new neighbourhood. They are the kind of people who don't ___ (talk) to each other", "answers": ["talk", "usually talk", "don't talk", "don't usually talk"], "why": "Hábito presente; 'don't' ya está en el texto, así que solo falta talk (o usually talk)." },
+        { "text": "and they ___ (get) everything very easily. We share the same neighbourhood but we don't share the same values.", "answers": ["get"], "why": "Verdad general en presente: presente simple (they get)." }
+      ]
+    },
+    {
+      "id": "ppt-future",
+      "title": "Future Tenses",
+      "topic": "future",
+      "source": "ppt",
+      "slide": 18,
+      "instructions": "will + verbo = predicción · will be + -ing = en progreso en un momento futuro · am/is/are + -ing = plan confirmado.",
+      "items": [
+        { "text": "I ___ (see) Jane for dinner tomorrow.", "answers": ["'m seeing", "am seeing"], "why": "Plan confirmado (cena con hora y persona): presente continuo." },
+        { "text": "I think that there ___ (not be) new pandemics in the future.", "answers": ["won't be", "will not be"], "why": "'I think' + futuro → predicción: will / won't." },
+        { "text": "This time next week Gary ___ (meet) with the new boss.", "answers": ["will be meeting", "'ll be meeting"], "why": "'This time next week' = acción en progreso en ese momento: futuro continuo." },
+        { "text": "Some scientists believe that we ___ (cure) many cancers before 2050.", "answers": ["will have cured", "will cure", "'ll have cured", "'ll cure"], "why": "Predicción con límite de tiempo (before 2050): lo más preciso es future perfect (will have cured); will cure también se acepta. Verifícalo con tu profesor.", "verify": true },
+        { "text": "Do you think doctors ___ (continue) to use textbooks in the future?", "answers": ["will continue"], "why": "Pregunta de predicción: will + verbo. (Tu clave dice 'will doctors continue'; como 'doctors' ya está en la frase, el espacio es will continue.)" },
+        { "text": "David and I ___ (go) to the cinema on Saturday.", "answers": ["are going", "'re going"], "why": "Plan confirmado con día concreto: presente continuo." },
+        { "text": "You ___ (do) your evaluations at this time on Thursday.", "answers": ["will be doing", "'ll be doing"], "why": "'at this time on Thursday': acción en progreso en un momento futuro → futuro continuo." },
+        { "text": "Dave and Sadie ___ (travel) to Spain this Saturday.", "answers": ["are travelling", "are traveling", "'re travelling", "'re traveling"], "why": "Viaje ya organizado (this Saturday): presente continuo. Se aceptan travelling (UK) y traveling (US)." },
+        { "text": "Technology ___ (advance) so much by the end of the century.", "answers": ["will have advanced", "will advance"], "why": "'by the end of the century' = terminado antes de ese momento → future perfect; will advance también se acepta. Verifícalo con tu profesor.", "verify": true },
+        { "text": "We ___ (not play) tennis tomorrow. We don't have time.", "answers": ["aren't playing", "are not playing", "'re not playing"], "why": "Ya está decidido que no jugarán: plan → presente continuo negativo." }
+      ]
+    },
+    {
+      "id": "new-past",
+      "title": "Más práctica · Past habits",
+      "topic": "habits",
+      "source": "nuevo",
+      "instructions": "Ejercicio nuevo (no está en el PPT). Mismo estilo que el Exercise 1.",
+      "items": [
+        { "text": "Every Sunday, my grandmother ___ (cook) a huge lunch for the whole family.", "answers": ["would cook", "used to cook"], "why": "Acción repetida y nostálgica: would o used to." },
+        { "text": "___ (you/have) long hair when you were at school?", "answers": ["Did you use to have"], "why": "have es estado → no would. Pregunta: Did + sujeto + use to." },
+        { "text": "I ___ (not/eat) fish when I was a child, but now I love it.", "answers": ["didn't use to eat"], "why": "Negativo y algo que cambió: didn't use to." },
+        { "text": "This town ___ (be) much quieter before the new highway.", "answers": ["used to be", "was"], "why": "be es estado: used to be (o was). Nunca would be aquí." },
+        { "text": "When we were teenagers, we ___ (stay) up all night talking on the phone.", "answers": ["would stay", "used to stay"], "why": "Acción repetida en el pasado: would o used to." },
+        { "text": "She ___ (know) everyone in her neighbourhood, but now she lives in a big city.", "answers": ["used to know"], "why": "know es estado: solo used to." },
+        { "text": "Where ___ (you/go) on holiday when you were little?", "answers": ["did you use to go"], "why": "Pregunta con wh-: Where + did + sujeto + use to + verbo." },
+        { "text": "In the 90s, people ___ (write) letters instead of sending messages.", "answers": ["used to write", "would write"], "why": "Hábito pasado que cambió: used to (would también es posible)." },
+        { "text": "My dad ___ (not/smoke) when he was young; he started at 40.", "answers": ["didn't use to smoke"], "why": "Negativo: didn't use to (would casi nunca en negativo)." },
+        { "text": "I ___ (love) that cartoon, but now I think it's boring.", "answers": ["used to love"], "why": "love es estado: used to love." }
+      ]
+    },
+    {
+      "id": "new-present",
+      "title": "Más práctica · be used to / usually",
+      "topic": "habits",
+      "source": "nuevo",
+      "instructions": "Ejercicio nuevo (no está en el PPT). Mismo estilo que el Exercise 2.",
+      "items": [
+        { "text": "I've lived in Bogotá for years, so I ___ (the traffic).", "answers": ["'m used to the traffic", "am used to the traffic"], "why": "Es normal para mí: be used to + sustantivo." },
+        { "text": "Nurses ___ (work) night shifts, so they don't find it strange.", "answers": ["are used to working", "'re used to working"], "why": "Es algo normal para ellas: are used to + -ing." },
+        { "text": "I ___ (drink) coffee in the morning, but today I had tea.", "answers": ["usually drink"], "why": "Hábito presente: usually + presente simple." },
+        { "text": "My little brother ___ (wear) a uniform yet; he only started school last week.", "answers": ["isn't used to wearing", "'s not used to wearing"], "why": "'yet' + empezó hace poco → todavía no está acostumbrado." },
+        { "text": "___ (you/walk) to work, or do you usually take the bus?", "answers": ["Do you usually walk"], "why": "Pregunta sobre un hábito presente: Do you usually + verbo." },
+        { "text": "We ___ (not/eat) out during the week; it's too expensive.", "answers": ["don't usually eat"], "why": "Hábito presente negativo: don't usually + verbo." },
+        { "text": "After a month in London, she ___ (drive) on the left now.", "answers": ["is used to driving", "'s used to driving"], "why": "Ya se acostumbró: is used to + -ing." },
+        { "text": "___ (your sister/live) alone yet?", "answers": ["Is your sister used to living"], "why": "Pregunta con be used to: Is + sujeto + used to + -ing." },
+        { "text": "I ___ (play) football every day as a kid, but now I don't have time.", "answers": ["used to play", "would play"], "why": "Ojo: aquí es pasado (as a kid) → used to + verbo base, no be used to." },
+        { "text": "My mum ___ (cook) for six people, so cooking for two feels strange to her.", "answers": ["is used to cooking", "'s used to cooking"], "why": "Es lo normal para ella: is used to + -ing." }
+      ]
+    },
+    {
+      "id": "new-future",
+      "title": "Más práctica · Future Tenses",
+      "topic": "future",
+      "source": "nuevo",
+      "instructions": "Ejercicio nuevo (no está en el PPT). Las frases marcadas con 'by' usan future perfect (extra).",
+      "items": [
+        { "text": "I ___ (start) my new job on Monday — I signed the contract yesterday.", "answers": ["'m starting", "am starting"], "why": "Plan confirmado (contrato firmado): presente continuo." },
+        { "text": "I think people ___ (live) on Mars one day.", "answers": ["will live", "'ll live"], "why": "'I think' + futuro: predicción con will." },
+        { "text": "Don't call me at 9 p.m. — I ___ (watch) the match then.", "answers": ["will be watching", "'ll be watching"], "why": "Acción en progreso en un momento futuro concreto: futuro continuo." },
+        { "text": "She ___ (not come) to the party on Friday. She's working.", "answers": ["isn't coming", "is not coming", "'s not coming"], "why": "Ya está decidido (trabaja ese día): presente continuo negativo." },
+        { "text": "Do you think robots ___ (replace) doctors one day?", "answers": ["will replace"], "why": "Pregunta de predicción: will + verbo." },
+        { "text": "This time tomorrow, we ___ (fly) to Cartagena.", "answers": ["will be flying", "'ll be flying"], "why": "'This time tomorrow': futuro continuo." },
+        { "text": "We ___ (meet) the doctor at 4 p.m. — the appointment is confirmed.", "answers": ["'re meeting", "are meeting"], "why": "Cita confirmada: presente continuo." },
+        { "text": "I don't think hospitals ___ (be) free for everyone soon.", "answers": ["will be"], "why": "Predicción: I don't think + will (no 'I think … won't')." },
+        { "text": "___ (you/work) late tomorrow evening? I'd like to call you.", "answers": ["Will you be working", "Are you working"], "why": "Preguntar qué estará haciendo alguien en un momento futuro: futuro continuo (también vale presente continuo si es un plan)." },
+        { "text": "By 2040, scientists ___ (develop) a vaccine for the common cold.", "answers": ["will have developed", "'ll have developed"], "why": "EXTRA – future perfect: 'By 2040' = terminado antes de ese momento.", "extra": true },
+        { "text": "By the time you arrive, the film ___ (finish).", "answers": ["will have finished", "'ll have finished"], "why": "EXTRA – future perfect: la película habrá terminado antes de que llegues.", "extra": true }
+      ]
+    }
+  ]
+}

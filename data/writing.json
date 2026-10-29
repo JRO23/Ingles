@@ -1,0 +1,88 @@
+{
+  "exam": {
+    "minutes": 60,
+    "notes": [
+      "Se hace en papel.",
+      "Escribes un ensayo agree / disagree sobre un tema dado.",
+      "Puedes elegir entre dos temas.",
+      "Debes apoyar tus ideas con argumentos y ejemplos.",
+      "Tienes máximo 60 minutos."
+    ]
+  },
+  "structure": [
+    {
+      "part": "Introducción",
+      "words": "40–60 palabras",
+      "tips": [
+        "Empieza con una frase general sobre el tema (contexto).",
+        "Parafrasea la afirmación del enunciado (no la copies).",
+        "Termina con tu tesis: di claramente si estás de acuerdo, en desacuerdo o parcialmente de acuerdo, y anuncia tus 2–3 razones."
+      ],
+      "example": "Colombia's healthcare system has changed a lot in recent decades. Some people believe that Colombians will live longer in twenty years. I strongly agree with this idea because medicine is advancing quickly and people are becoming more aware of healthy habits."
+    },
+    {
+      "part": "Párrafos de desarrollo (2–3)",
+      "words": "60–90 palabras cada uno",
+      "tips": [
+        "Una idea por párrafo, introducida con un conector (Firstly, In addition…).",
+        "Frase tema → explicación → ejemplo concreto (dato, experiencia, país, caso).",
+        "Cierra el párrafo conectando con tu tesis.",
+        "Opcional: un párrafo de contraargumento (Some people argue that… However…)."
+      ],
+      "example": "Firstly, medical technology is improving every year. For example, many diseases that used to be deadly, like some types of cancer, can now be treated if they are detected early. As a result, people will probably live longer."
+    },
+    {
+      "part": "Conclusión",
+      "words": "30–50 palabras",
+      "tips": [
+        "Empieza con In conclusion / To sum up.",
+        "Repite tu opinión con otras palabras.",
+        "Resume tus razones en una frase. No añadas ideas nuevas.",
+        "Opcional: una predicción o recomendación final (¡buen lugar para usar will!)."
+      ],
+      "example": "In conclusion, I believe life expectancy in Colombia will be higher in twenty years thanks to better medicine and healthier habits. However, the government will need to invest more in healthcare to make this possible for everyone."
+    }
+  ],
+  "connectors": [
+    { "group": "Ordenar ideas", "items": ["Firstly, …", "Secondly, …", "Finally, …", "To begin with, …", "Another reason is that …"] },
+    { "group": "Añadir", "items": ["In addition, …", "Moreover, …", "Furthermore, …", "What is more, …", "… as well as …"] },
+    { "group": "Contrastar", "items": ["However, …", "On the other hand, …", "Although …, …", "Even though …, …", "Nevertheless, …", "While some people think …, others …"] },
+    { "group": "Causa y efecto", "items": ["because / because of …", "As a result, …", "Therefore, …", "This means that …", "Due to …, …"] },
+    { "group": "Dar ejemplos", "items": ["For example, …", "For instance, …", "such as …", "A good example of this is …", "This is shown by …"] },
+    { "group": "Concluir", "items": ["In conclusion, …", "To sum up, …", "All in all, …", "Overall, …"] }
+  ],
+  "opinion": [
+    { "group": "Dar tu opinión", "items": ["In my opinion, …", "I strongly believe that …", "From my point of view, …", "It seems to me that …", "As far as I'm concerned, …"] },
+    { "group": "Totalmente de acuerdo", "items": ["I completely agree that …", "I am convinced that …", "There is no doubt that …"] },
+    { "group": "Parcialmente de acuerdo", "items": ["I agree to some extent, but …", "Although this is partly true, …", "I partly agree with this statement because …"] },
+    { "group": "En desacuerdo", "items": ["I strongly disagree with the idea that …", "I don't believe that …", "It is not true that …"] },
+    { "group": "Reconocer la otra postura", "items": ["Some people argue that …, but …", "It is often said that …; however, …", "Admittedly, …"] }
+  ],
+  "topics": [
+    { "id": "ppt-life", "source": "ppt", "slide": 6, "prompt": "\"The average life expectancy of Colombians will be higher in 20 years.\" To what extent do you agree or disagree?", "ideas": ["Avances médicos y vacunas", "Más conciencia sobre hábitos sanos (aunque también comida rápida y sedentarismo)", "Acceso desigual a la salud entre ciudades y zonas rurales", "Contaminación, violencia, estrés"] },
+    { "id": "ppt-music", "source": "ppt", "slide": 6, "prompt": "\"The rise of streaming services like Spotify and Apple Music mean that 'physical' music will disappear in the future.\" To what extent do you agree or disagree?", "ideas": ["Comodidad y precio del streaming", "Regreso del vinilo como objeto de colección", "Los artistas ganan más con productos físicos y conciertos", "Dependencia de internet y de las plataformas"] },
+    { "id": "new-free-health", "source": "nuevo", "prompt": "\"Healthcare should be completely free for everyone.\" To what extent do you agree or disagree?", "ideas": ["Derecho humano básico", "¿Quién paga? Impuestos y sostenibilidad", "Calidad y tiempos de espera", "Prevención: ahorra dinero a largo plazo"] },
+    { "id": "new-junk-food", "source": "nuevo", "prompt": "\"The government should ban junk food advertising aimed at children.\" To what extent do you agree or disagree?", "ideas": ["Obesidad infantil", "Libertad de las empresas y de los padres", "Ejemplos: impuestos a bebidas azucaradas, etiquetas de advertencia", "Educación vs prohibición"] },
+    { "id": "new-mental", "source": "nuevo", "prompt": "\"Universities should offer free counselling to all their students.\" To what extent do you agree or disagree?", "ideas": ["Estrés y ansiedad en estudiantes", "Rendimiento académico", "Costo para las universidades", "Estigma sobre la salud mental"] },
+    { "id": "new-tech", "source": "nuevo", "prompt": "\"In the future, doctors will be replaced by artificial intelligence.\" To what extent do you agree or disagree?", "ideas": ["Diagnóstico más rápido y preciso", "Empatía y contacto humano", "Errores y responsabilidad", "La IA como ayuda, no como reemplazo"] },
+    { "id": "new-lifestyle", "source": "nuevo", "prompt": "\"People today have healthier lifestyles than their grandparents used to have.\" To what extent do you agree or disagree?", "ideas": ["Antes: más actividad física, comida casera (used to / would)", "Hoy: más información, gimnasios, medicina", "Hoy: sedentarismo, pantallas, comida procesada", "Estrés de la vida moderna"] },
+    { "id": "new-insurance", "source": "nuevo", "prompt": "\"Private health insurance is necessary to receive good medical care.\" To what extent do you agree or disagree?", "ideas": ["Tiempos de espera en el sistema público", "Desigualdad: no todos pueden pagarlo", "Calidad de hospitales públicos y privados", "Responsabilidad del Estado"] }
+  ],
+  "model": {
+    "topic": "ppt-life",
+    "label": "Ensayo modelo (escrito para esta página, no está en el PPT)",
+    "text": "Over the last few decades, Colombians have started to live longer lives. Many people believe that the average life expectancy in Colombia will be higher in twenty years. I agree with this statement to a large extent, mainly because of medical progress and better health policies, although some problems may slow this progress down.\n\nFirstly, medicine is advancing faster than ever. Diseases that used to be deadly, such as some types of cancer, can now be detected early and treated. For instance, many hospitals in Bogotá and Medellín already use modern technology that was not available twenty years ago. As a result, I think doctors will save many more lives in the future.\n\nIn addition, people are getting used to living healthier lifestyles. My grandparents would eat fried food every day and they didn't use to exercise. Nowadays, many young people usually go to the gym, ride bikes and follow nutrition guidelines.\n\nOn the other hand, access to healthcare is not equal. People in rural areas often have to travel for hours to see a doctor, and many cannot pay for insurance. If the government does not invest in these regions, life expectancy will not improve for everyone.\n\nIn conclusion, I believe Colombians will live longer in twenty years thanks to better medicine and healthier habits. However, this will only be true for the whole country if healthcare reaches every region."
+  },
+  "checklist": [
+    "Mi introducción tiene una tesis clara (agree / disagree / partly agree).",
+    "Cada párrafo de desarrollo tiene UNA idea principal.",
+    "Cada argumento tiene al menos un ejemplo concreto.",
+    "Usé conectores variados (no solo 'and' y 'but').",
+    "Incluí (o refuté) la opinión contraria.",
+    "La conclusión repite mi opinión sin ideas nuevas.",
+    "Usé vocabulario del tema (health / health policy).",
+    "Usé gramática del curso: used to / would / be used to / will / will be + -ing.",
+    "Revisé concordancia sujeto-verbo y la -s de tercera persona.",
+    "Revisé ortografía y puntuación (mayúsculas, comas después de conectores)."
+  ]
+}

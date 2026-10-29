@@ -1,0 +1,77 @@
+{
+  "exam": {
+    "notes": [
+      "En grupos de 3 te darán dos temas para discutir.",
+      "Es una conversación entre tú y tus compañeros; el profesor no participa.",
+      "En total hablarán 10–15 minutos."
+    ]
+  },
+  "phrases": [
+    { "group": "Dar tu opinión", "items": ["I think / I believe that …", "In my opinion, …", "Personally, I feel that …", "If you ask me, …", "The way I see it, …"] },
+    { "group": "Estar de acuerdo", "items": ["I totally agree with you.", "That's a good point.", "Exactly! / Absolutely!", "I was going to say the same thing.", "You're right about that."] },
+    { "group": "Estar en desacuerdo (con cortesía)", "items": ["I see your point, but …", "I'm not so sure about that.", "I'm afraid I disagree.", "That's true, but on the other hand …", "I partly agree, but …"] },
+    { "group": "Pedir / tomar el turno", "items": ["Can I add something here?", "Sorry to interrupt, but …", "If I could just say something …", "Going back to what you said, …"] },
+    { "group": "Dar el turno / incluir a otros", "items": ["What do you think, [name]?", "Do you agree with that?", "What about you?", "How about your experience?"] },
+    { "group": "Pedir aclaraciones", "items": ["Sorry, what do you mean by …?", "Could you say that again, please?", "Do you mean that …?", "Could you give an example?"] },
+    { "group": "Mantener la conversación", "items": ["That reminds me of …", "Speaking of …, …", "Another thing is that …", "Let's move on to the next question.", "So, to sum up, we think that …"] },
+    { "group": "Ganar tiempo para pensar", "items": ["That's an interesting question …", "Let me think …", "Well, it depends on …", "I've never thought about that, but …"] }
+  ],
+  "questions": [
+    {
+      "group": "Talking about our habits",
+      "source": "ppt",
+      "slide": 15,
+      "items": [
+        "What would you do in your free time as a child?",
+        "What did you use to like to eat when you were younger?",
+        "What didn't you use to like to do when you were a child?",
+        "What do you usually do in your free time now?",
+        "What are you used to doing at the weekend?"
+      ],
+      "note": "En el PPT dice \"did you used to\" y \"didn't you used to\"; la forma correcta es \"did you use to\" / \"didn't you use to\" (después de did, sin -d)."
+    },
+    {
+      "group": "Writing/Speaking practice",
+      "source": "ppt",
+      "slide": 6,
+      "items": [
+        "\"The average life expectancy of Colombians will be higher in 20 years.\" To what extent do you agree or disagree?",
+        "\"The rise of streaming services like Spotify and Apple Music mean that 'physical' music will disappear in the future.\" To what extent do you agree or disagree?"
+      ]
+    },
+    {
+      "group": "Health & lifestyle",
+      "source": "nuevo",
+      "items": [
+        "Have you ever sprained your ankle or burnt yourself? What happened?",
+        "What do you usually do when you feel under the weather?",
+        "Should doctors prescribe fewer painkillers? Why or why not?",
+        "Is it easy to get a sick note in Colombia? Should it be easier or harder?",
+        "Did your grandparents use to have healthier habits than people today?",
+        "Are you used to doing exercise every week? Why or why not?"
+      ]
+    },
+    {
+      "group": "Health policy",
+      "source": "nuevo",
+      "items": [
+        "Should healthcare be free for everyone? Who should pay for it?",
+        "Is private health insurance necessary in Colombia?",
+        "Should the government follow stricter guidelines on junk food and sugar?",
+        "Should counselling be free for all students?",
+        "What can the government do to increase life expectancy?"
+      ]
+    },
+    {
+      "group": "The future",
+      "source": "nuevo",
+      "items": [
+        "Do you think doctors will be replaced by artificial intelligence?",
+        "What will you be doing this time next year?",
+        "What are you doing this weekend? (plans)",
+        "Will people live to 120 in the future?",
+        "Will physical books, CDs or cinemas disappear?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "sets": [
+    { "id": "health", "title": "Health", "slide": 21 },
+    { "id": "policy", "title": "Health Policy", "slide": 23 }
+  ],
+  "words": [
+    { "word": "burn", "set": "health", "pos": "verb / noun", "definition": "when you hurt yourself with something hot", "definitionSource": "ppt", "es": "quemar(se) / quemadura", "example": "Be careful not to burn yourself on the oven.", "cloze": "Be careful not to ___ yourself on the oven." },
+    { "word": "sprain", "set": "health", "pos": "verb / noun", "definition": "an injury to your ligaments", "definitionSource": "ppt", "es": "torcer(se) / esguince", "example": "She fell playing football and sprained her ankle.", "cloze": "If you twist your ankle badly, you can ___ it." },
+    { "word": "bandage", "set": "health", "pos": "noun", "definition": "material that is wrapped around an injured body part", "definitionSource": "ppt", "es": "venda, vendaje", "example": "The nurse put a bandage around my wrist.", "cloze": "The nurse wrapped a ___ around my wrist." },
+    { "word": "swelling", "set": "health", "pos": "noun", "definition": "when a body part gets inflamed, you have ___", "definitionSource": "ppt", "es": "hinchazón, inflamación", "example": "Put ice on your knee to reduce the swelling.", "cloze": "Put ice on your knee to reduce the ___." },
+    { "word": "bleed", "set": "health", "pos": "verb", "definition": "when blood leaves the body", "definitionSource": "ppt", "es": "sangrar", "example": "My nose started to bleed in the middle of class.", "cloze": "If you cut your finger, it will ___." },
+    { "word": "wound", "set": "health", "pos": "noun", "definition": "a cut or similar surface injury", "definitionSource": "ppt", "es": "herida", "example": "Clean the wound with water before you cover it.", "cloze": "Clean the ___ with water before you cover it." },
+    { "word": "on the mend", "set": "health", "pos": "expression", "definition": "when you are recovering from an illness", "definitionSource": "ppt", "es": "recuperándose, mejorando", "example": "I had the flu last week, but I'm on the mend now.", "cloze": "I had the flu last week, but I'm ___ now." },
+    { "word": "collapse", "set": "health", "pos": "verb", "definition": "when someone falls over unexpectedly", "definitionSource": "ppt", "es": "desplomarse, desmayarse, colapsar", "example": "A runner collapsed near the end of the marathon.", "cloze": "Sit down if you feel dizzy, or you might ___." },
+    { "word": "choke", "set": "health", "pos": "verb", "definition": "when you can't breathe because your throat is blocked", "definitionSource": "ppt", "es": "atragantarse, ahogarse", "example": "Eat slowly or you might choke on your food.", "cloze": "Eat slowly or you might ___ on your food." },
+    { "word": "disorder", "set": "health", "pos": "noun", "definition": "a medical problem", "definitionSource": "ppt", "es": "trastorno, afección", "example": "He has a sleep disorder, so he is always tired.", "cloze": "He has a sleep ___, so he is always tired." },
+    { "word": "painful", "set": "health", "pos": "adjective", "definition": "when something hurts it is ___", "definitionSource": "ppt", "es": "doloroso", "example": "My broken arm was very painful.", "cloze": "My broken arm was very ___." },
+    { "word": "healthcare", "set": "policy", "pos": "noun", "definition": "a system designed to take care of people's wellbeing", "definitionSource": "ppt", "es": "atención médica, sistema de salud", "example": "Everyone should have access to good healthcare.", "cloze": "Everyone should have access to good ___." },
+    { "word": "come down with", "set": "policy", "pos": "phrasal verb", "definition": "(verb phrase) to become ill", "definitionSource": "ppt", "es": "enfermarse de, pescar (un resfriado)", "example": "I think I'm coming down with a cold.", "cloze": "I think I'm going to ___ a cold — my throat hurts." },
+    { "word": "feel under the weather", "set": "policy", "pos": "expression", "definition": "a way to say \"feel sick\"", "definitionSource": "ppt", "es": "sentirse mal, estar indispuesto", "example": "I'm staying at home today; I feel a bit under the weather.", "cloze": "I'm staying at home today because I ___." },
+    { "word": "prescribe", "set": "policy", "pos": "verb", "definition": "(verb) to ___: when a doctor tells you which medicine to take", "definitionSource": "ppt", "es": "recetar", "example": "The doctor prescribed antibiotics for my infection.", "cloze": "The doctor will ___ antibiotics for your infection." },
+    { "word": "sick note", "set": "policy", "pos": "noun", "definition": "a document from a doctor that says you are too ill to work or study (PPT: \"incapacidad\")", "definitionSource": "ppt", "es": "incapacidad (médica)", "example": "I gave my boss a sick note from the doctor.", "cloze": "I couldn't go to work, so the doctor gave me a ___." },
+    { "word": "surgery", "set": "policy", "pos": "noun", "definition": "an operation", "definitionSource": "ppt", "es": "cirugía, operación", "example": "My grandmother needs surgery on her knee.", "cloze": "A broken hip often needs ___." },
+    { "word": "painkillers", "set": "policy", "pos": "noun", "definition": "medicine to stop pain", "definitionSource": "ppt", "es": "analgésicos, calmantes", "example": "Take two painkillers if your head hurts.", "cloze": "Take two ___ if your head hurts." },
+    { "word": "counselling", "set": "policy", "pos": "noun", "definition": "when you speak to a psychologist", "definitionSource": "ppt", "es": "orientación psicológica, terapia", "example": "The university offers free counselling to students with stress.", "cloze": "The university offers free ___ to students with stress." },
+    { "word": "policy", "set": "policy", "pos": "noun", "definition": "a strategy enacted by a government or organization", "definitionSource": "ppt", "es": "política (plan de acción), póliza", "example": "The new government policy makes vaccines free.", "cloze": "The new government ___ makes vaccines free for children." },
+    { "word": "insurance", "set": "policy", "pos": "noun", "definition": "something you pay for every month to cover your health expenses", "definitionSource": "ppt", "es": "seguro (médico)", "example": "My health insurance covers dental treatment.", "cloze": "My health ___ covers dental treatment." },
+    { "word": "guidelines", "set": "policy", "pos": "noun", "definition": "rules which are not laws but are suggested", "definitionSource": "ppt", "es": "pautas, directrices, lineamientos", "example": "The Ministry of Health published new guidelines on healthy eating.", "cloze": "The Ministry of Health published new ___ on healthy eating." },
+    { "word": "life expectancy", "set": "policy", "pos": "noun", "definition": "how long people are expected to live", "definitionSource": "ppt", "es": "esperanza de vida", "example": "Life expectancy in Colombia is about 77 years.", "cloze": "In Japan, ___ is one of the highest in the world." }
+  ],
+  "readings": [
+    {
+      "id": "ppt-vb1",
+      "title": "Vocabulary Building 1 · Health",
+      "set": "health",
+      "source": "ppt",
+      "slide": 21,
+      "bank": ["burn", "on the mend", "painful", "bandage", "sprain", "collapse", "choke", "swelling", "bleed", "wound", "disorder"],
+      "text": "Health is something we all cherish. Sometimes, though, we encounter bumps along the road to wellness. Imagine you're hiking and suddenly twist and [1] your ankle. You may need a [2] to support it and reduce [3].\n\nIn the kitchen, you have to be careful not to [4] yourself with hot pans. Or perhaps you accidentally cut yourself while cooking, and the wound starts to [5]. Don't panic; apply pressure to stop the blood leaving the body and clean the [6] thoroughly. Even when you're eating you have to be careful to not eat too fast, you don't want to [7] on your food!\n\nMeanwhile, if you feel dizzy or your chest feels [8], you should seek help immediately, as it might indicate a more serious issue like a heart [9]. It's a good idea to sit down in case you [10].\n\nRemember, it's crucial to take care of both our physical and mental health to stay fit and enjoy life to the fullest. If you're ill or injured, don't worry, follow your doctor's advice and you'll be [11] soon!",
+      "answers": {
+        "1": "sprain", "2": "bandage", "3": "swelling", "4": "burn", "5": "bleed", "6": "wound",
+        "7": "choke", "8": "painful", "9": "disorder", "10": "collapse", "11": "on the mend"
+      },
+      "why": {
+        "1": "twist and sprain your ankle: lesión de ligamentos.",
+        "2": "a bandage: material para envolver y sostener la zona herida (va después de 'a').",
+        "3": "reduce swelling: reducir la hinchazón.",
+        "4": "burn yourself with hot pans: quemarse con algo caliente.",
+        "5": "the wound starts to bleed: verbo después de 'to'; la sangre sale del cuerpo.",
+        "6": "clean the wound: la herida (sustantivo después de 'the').",
+        "7": "choke on your food: atragantarse.",
+        "8": "your chest feels painful: adjetivo después de 'feels'.",
+        "9": "a heart disorder: un problema médico del corazón.",
+        "10": "in case you collapse: por si te desmayas/caes.",
+        "11": "you'll be on the mend: te estarás recuperando."
+      }
+    },
+    {
+      "id": "ppt-vb2",
+      "title": "Vocabulary Building 2 · Health Policy",
+      "set": "policy",
+      "source": "ppt",
+      "slide": 23,
+      "bank": ["sick note", "healthcare", "surgery", "policy", "guidelines", "painkillers", "counselling", "life expectancy", "insurance", "come down with", "prescribe", "feel under the weather"],
+      "text": "A good [1] system is essential for maintaining both physical and mental health across the country. Whether you [2] a cold or simply [3], it's important to know when to see a doctor. In many cases, they will [4] medication or recommend rest to help you recover. If you're too ill to work or study, your doctor might also give you a [5] so you can stay at home and recover properly.\n\nSometimes, more serious problems like broken bones require [6], and it's reassuring to know that you can take [7] to ease the discomfort afterwards. For mental health support, many people also benefit from [8] to help them manage stress or anxiety.\n\nIt's equally important to understand your health [9] and make sure your [10] covers the type of treatment you might need. Following national [11] and maintaining a healthy lifestyle have led to a noticeable increase in [12] in many parts of the world.",
+      "answers": {
+        "1": "healthcare", "2": "come down with", "3": "feel under the weather", "4": "prescribe", "5": "sick note", "6": "surgery",
+        "7": "painkillers", "8": "counselling", "9": "policy", "10": "insurance", "11": "guidelines", "12": "life expectancy"
+      },
+      "why": {
+        "1": "a good healthcare system: sistema de salud.",
+        "2": "come down with a cold: enfermarse de un resfriado.",
+        "3": "simply feel under the weather: sentirse mal (sin una enfermedad concreta).",
+        "4": "they will prescribe medication: recetar (verbo después de will).",
+        "5": "give you a sick note: incapacidad para no ir a trabajar/estudiar.",
+        "6": "broken bones require surgery: cirugía.",
+        "7": "take painkillers to ease the discomfort: analgésicos.",
+        "8": "benefit from counselling: apoyo psicológico.",
+        "9": "your health policy: las condiciones de tu plan/póliza de salud.",
+        "10": "your insurance covers the treatment: el seguro cubre el tratamiento.",
+        "11": "national guidelines: pautas recomendadas.",
+        "12": "an increase in life expectancy: esperanza de vida."
+      }
+    }
+  ]
+}
